@@ -25,7 +25,7 @@
 #include "VulkanResource.h"
 #include "noncopyable.hpp"
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 #include "Buffer.h"
 #include "Image.h"
 #include "Sampler.h"

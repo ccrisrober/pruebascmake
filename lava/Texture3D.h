@@ -26,7 +26,7 @@
 #include "Queue.h"
 #include "Texture.h"
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 namespace lava
 {

@@ -20,7 +20,7 @@
 #ifndef __LAVA_IMAGES__
 #define __LAVA_IMAGES__
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 #include "includes.hpp"
 #include "VulkanResource.h"

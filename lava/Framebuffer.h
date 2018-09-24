@@ -20,7 +20,7 @@
 #ifndef __LAVA_FRAMEBUFFER__
 #define __LAVA_FRAMEBUFFER__
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 #include "includes.hpp"
 

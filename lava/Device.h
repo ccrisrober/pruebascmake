@@ -20,7 +20,7 @@
 #ifndef __LAVA_DEVICE__
 #define __LAVA_DEVICE__
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 #include "includes.hpp"
 

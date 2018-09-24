@@ -20,7 +20,7 @@
 #ifndef __LAVA_STRING_UTILS__
 #define __LAVA_STRING_UTILS__
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 #include <string>
 #include <sstream>

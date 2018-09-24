@@ -26,7 +26,7 @@
 
 #include "noncopyable.hpp"
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 namespace lava
 {

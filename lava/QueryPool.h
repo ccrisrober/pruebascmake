@@ -24,7 +24,7 @@
 
 #include "VulkanResource.h"
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 namespace lava
 {

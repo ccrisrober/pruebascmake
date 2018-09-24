@@ -20,7 +20,7 @@
 #ifndef __LAVA_LOG__
 #define __LAVA_LOG__
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 #include <iostream>
 #include <sstream>

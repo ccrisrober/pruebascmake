@@ -26,7 +26,7 @@
 #include "noncopyable.hpp"
 #include "Descriptor.h"
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 #include "RenderPass.h"
 

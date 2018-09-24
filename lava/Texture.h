@@ -27,7 +27,7 @@
 #include "Image.h"
 #include "Sampler.h"
 
-#include "api.h" // #include <lava/api.h>
+#include <lava/api.h>
 
 namespace lava
 {

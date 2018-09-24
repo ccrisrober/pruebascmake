@@ -21,7 +21,7 @@
 
 #include <iostream>
 
-#include "version.h"
+#include <lava/version.h>
 
 PFN_vkCreateDebugReportCallbackEXT  pfnVkCreateDebugReportCallbackEXT;
 PFN_vkDestroyDebugReportCallbackEXT pfnVkDestroyDebugReportCallbackEXT;
